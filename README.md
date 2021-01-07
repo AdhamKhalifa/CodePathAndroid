@@ -4,7 +4,7 @@
 This app allows the user to change text and background colors
 
 ### App Walk-though
-<img src="https://imgur.com/a/4ajTUbX" width=200><br>
+<img src="https://i.imgur.com/xkW3OnB.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
